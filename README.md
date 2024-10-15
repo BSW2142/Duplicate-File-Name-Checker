@@ -19,9 +19,11 @@ pip install tqdm
 # How to Use
 1. Run the Script
 Open a terminal or command prompt and navigate to the directory where the script is located.
-Use the following command to run the script: python duplicate_file_check.py
-
-2. Enter Directory Path
+Use the following command to run the script:
+```
+python duplicate_file_check.py
+```
+3. Enter Directory Path
 When prompted, enter the path of the directory you want to scan.
 
 For example:
